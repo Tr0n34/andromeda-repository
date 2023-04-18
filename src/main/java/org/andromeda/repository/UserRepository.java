@@ -1,6 +1,6 @@
-package org.andromeda.respositories;
+package org.andromeda.repository;
 
-import org.andromeda.respositories.dto.UserDto;
+import org.andromeda.repository.dto.UserDto;
 import org.springframework.data.repository.CrudRepository;
 
 import java.time.LocalDate;

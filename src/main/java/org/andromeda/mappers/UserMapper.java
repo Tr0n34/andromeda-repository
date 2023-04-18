@@ -1,7 +1,7 @@
 package org.andromeda.mappers;
 
 import org.andromeda.models.User;
-import org.andromeda.respositories.dto.UserDto;
+import org.andromeda.repository.dto.UserDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
